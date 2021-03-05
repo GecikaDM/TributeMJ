@@ -10,3 +10,6 @@ So I did it and enjoyed it - made it responsive as well
 
 # Technologies used
 HTML - CSS -JS
+
+# Deployed on netlify
+[https://tribute-to-mickael-jackson.netlify.app/]
